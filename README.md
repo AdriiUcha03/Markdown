@@ -189,25 +189,19 @@ No todas las aplicaciones de Markdown permiten las siguientes etiquetas:
 
   
 
-| Sintaxis | Descripcion |
-
+| Syntax      | Description |
 | ----------- | ----------- |
-
-| Cabecera | Titulo |
-
-| Parrafo | Texto |
+| Header      | Title       |
+| Paragraph   | Text        |
 
   
 
 ```
 
-| Sintaxis | Descripcion |
-
+| Syntax      | Description |
 | ----------- | ----------- |
-
-| Cabecera | Titulo |
-
-| Parrafo | Texto |
+| Header      | Title       |
+| Paragraph   | Text        |
 
 ```
 
@@ -217,6 +211,20 @@ No todas las aplicaciones de Markdown permiten las siguientes etiquetas:
 
   
 
+{
+
+"firstName": "Will",
+
+"lastName": "Smith",
+
+"age": 25
+
+}
+
+
+
+
+
 ```
 
 {
@@ -231,25 +239,6 @@ No todas las aplicaciones de Markdown permiten las siguientes etiquetas:
 
 ```
 
-  
-
-```
-
-```
-
-{
-
-"firstName": "Will",
-
-"lastName": "Smith",
-
-"age": 25
-
-}
-
-```
-
-```
 
   
 
